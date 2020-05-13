@@ -30,6 +30,13 @@
                                                                                  message:message
                                                                           preferredStyle:UIAlertControllerStyleAlert];
         
+        
+        
+        
+        
+        
+        
+        
         if (cancelButtonTitle && cancelButtonTitle.length > 0) {
             [alertController addAction:[UIAlertAction actionWithTitle:cancelButtonTitle
                                                                 style:UIAlertActionStyleCancel
